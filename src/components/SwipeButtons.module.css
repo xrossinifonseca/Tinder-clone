@@ -1,0 +1,34 @@
+.swipebutton {
+  position: fixed;
+  bottom: 10vh;
+  width: 100%;
+  display: flex;
+  justify-content: space-evenly;
+}
+.button {
+  background-color: white;
+  box-shadow: 0px 10px 53px 0px rgb(0, 0, 3) !important;
+}
+.replay {
+  padding: 1vw !important;
+  color: #f5b748 !important;
+}
+.close {
+  padding: 1vw !important;
+  color: #ec5e6f !important;
+}
+
+.star {
+  padding: 1vw !important;
+  color: #915dd1 !important;
+}
+
+.heart {
+  padding: 1vw !important;
+  color: #76e2b3 !important;
+}
+
+.flash {
+  padding: 1vw !important;
+  color: #915dd1;
+}
